@@ -14,3 +14,7 @@ Up-to-date Financail Data Sources:
 
 The Udemy course also provides CSV files which can be used to source financial data, however, of course they are not upto-date. 
 
+## Tags
+
+`#python #jupyternotebook #quandl #pandas #numpy #plotting #investment #rateofreturn #riskcalculation #montecarlo`
+
